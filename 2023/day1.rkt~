@@ -1,0 +1,5 @@
+#lang racket
+(require "../aoc.rkt")
+
+(year 2023)
+(day 1)
